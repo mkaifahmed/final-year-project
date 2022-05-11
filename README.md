@@ -1,4 +1,4 @@
-# Real Life Contra
+# Gesture Gaming
 
 <h1>Description</h1>
 A python script that translates the body movement into in game control.<br>
