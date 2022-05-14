@@ -13,6 +13,7 @@ For Run : Simple Run<br>
 <br>
 
 <h1>How to Run</h1>
-Run main.py in background
+Run main.py in background<br>
 Open Emulator 
 Select Contra Image file to run the game  
+<br>
