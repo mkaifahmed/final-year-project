@@ -1,4 +1,4 @@
-# Real Life Contra
+# Gesture Gaming
 
 <h1>Description</h1>
 A python script that translates the body movement into in game control.<br>
@@ -12,3 +12,8 @@ For Jump : Simple jump <br>
 For Run : Simple Run<br>
 <br>
 
+<h1>How to Run</h1>
+Run main.py in background<br>
+Open Emulator <br>
+Select Contra Image file to run the game  
+<br>
